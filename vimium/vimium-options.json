@@ -19,6 +19,10 @@
     {
       "passKeys": "",
       "pattern": "https?://tetr.io/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://web.whatsapp.com/*"
     }
   ]
 }
